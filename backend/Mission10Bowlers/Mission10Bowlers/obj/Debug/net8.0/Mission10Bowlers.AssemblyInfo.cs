@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mission10Bowlers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b6efd47d1b3d56f652c9f94c2ab3bd0a45cdde2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0fa1589514633840ee0c47cb99817bb750470c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mission10Bowlers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mission10Bowlers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
