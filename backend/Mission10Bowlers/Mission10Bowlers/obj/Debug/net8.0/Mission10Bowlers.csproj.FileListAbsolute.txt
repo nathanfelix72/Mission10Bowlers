@@ -135,3 +135,4 @@ C:\Users\natha\source\repos\Mission10Bowlers\backend\Mission10Bowlers\Mission10B
 C:\Users\natha\source\repos\Mission10Bowlers\backend\Mission10Bowlers\Mission10Bowlers\obj\Debug\net8.0\Mission10Bowlers.genruntimeconfig.cache
 C:\Users\natha\source\repos\Mission10Bowlers\backend\Mission10Bowlers\Mission10Bowlers\obj\Debug\net8.0\ref\Mission10Bowlers.dll
 C:\Users\natha\source\repos\Mission10Bowlers\backend\Mission10Bowlers\Mission10Bowlers\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\natha\source\repos\Mission10Bowlers\backend\Mission10Bowlers\Mission10Bowlers\obj\Debug\net8.0\Mission10Bowlers.sourcelink.json

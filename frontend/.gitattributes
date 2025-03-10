@@ -1,0 +1,5 @@
+* text=auto
+*.js text eol=lf
+*.tsx text oel=lf
+*.ts text eol=lf
+*.css text oel=lf
